@@ -1,0 +1,114 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@media (min-width: 768px) {
+	.layout-average1 {
+		width: 100%;
+	}
+	.layout-average2 {
+		width: 50%;
+	}
+	.layout-average3 {
+		width: 33.3333333%;
+	}
+	.layout-average4 {
+		width: 25%;
+	}
+	.layout-average5 {
+		width: 20%;
+	}
+	.layout-average6 {
+		width: 16.6666666%;
+	}
+	.layout-average7 {
+		width: 14.285714286%;
+	}
+	.layout-average8 {
+		width: 12.5%;
+	}
+	.layout-average9 {
+		width: 11.11111111%;
+	}
+	.layout-average10 {
+		width: 10%;
+	}
+	.layout-average1 ,.layout-average2 ,.layout-average3 ,.layout-average4 ,.layout-average5 ,
+	.layout-average6 ,.layout-average7 ,.layout-average8 ,.layout-average9 ,.layout-average10  {
+		float: left;
+	}
+
+	.layout-percent5 {
+		width: 5%;
+	}
+	.layout-percent10 {
+		width: 10%;
+	}
+	.layout-percent15 {
+		width: 15%;
+	}
+	.layout-percent20 {
+		width: 20%;
+	}
+	.layout-percent25 {
+		width: 25%;
+	}
+	.layout-percent30 {
+		width: 30%;
+	}
+	.layout-percent33 {
+		width: 33.3%;
+	}
+	.layout-percent35 {
+		width: 35%;
+	}
+	.layout-percent40 {
+		width: 40%;
+	}
+	.layout-percent45 {
+		width: 45%;
+	}
+	.layout-percent50 {
+		width: 50%;
+	}
+	.layout-percent55 {
+		width: 55%;
+	}
+	.layout-percent60 {
+		width: 60%;
+	}
+	.layout-percent65 {
+		width: 65%;
+	}
+	.layout-percent66 {
+		width: 66.66666666%;
+	}
+	.layout-percent70 {
+		width: 70%;
+	}
+	.layout-percent75 {
+		width: 75%;
+	}
+	.layout-percent80 {
+		width: 80%;
+	}
+	.layout-percent85 {
+		width: 85%;
+	}
+	.layout-percent90 {
+		width: 90%;
+	}
+	.layout-percent95 {
+		width: 95%;
+	}
+	.layout-percent100 {
+		width: 100%;	
+	}
+	.layout-percent5 , .layout-percent10 , .layout-percent15, .layout-percent20 , .layout-percent25, .layout-percent30, .layout-percent33
+	, .layout-percent35, .layout-percent40, .layout-percent45, .layout-percent50, .layout-percent55, .layout-percent60
+	, .layout-percent65, .layout-percent66, .layout-percent70, .layout-percent75, .layout-percent80, .layout-percent85
+	, .layout-percent90, .layout-percent95, .layout-percent100 {
+		float: left;
+	}
+}
