@@ -1,0 +1,9 @@
+import<../head.lade>
+		div [style:"width:500px;height:100%"] (controller:"demo")
+			div [style:"height:50px;"] (layout-margin:"5" layout:"auto" layout-data:"20% 20% 60%")
+				div [style:"background-color:#FAEBD7;height:100%"]
+				div [style:"background-color:#00FF00;height:100%"] (click:"click")
+				div	[style:"background-color:#00FFFF;height:100%"]
+
+
+	script [src:"./index.js"]
